@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1.2 - Strongly typed collections in CSharp 2", "1.1.2 - Strongly typed collections in CSharp 2\1.1.2 - Strongly typed collections in CSharp 2.csproj", "{850AF134-7832-41D9-BBED-17790E072ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1.1 - The Product Type in CSharp 1", "1.1.1 - The Product Type in CSharp 1\1.1.1 - The Product Type in CSharp 1.csproj", "{4F80132C-0CB5-41DA-A425-16093FE6FF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850AF134-7832-41D9-BBED-17790E072ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850AF134-7832-41D9-BBED-17790E072ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850AF134-7832-41D9-BBED-17790E072ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850AF134-7832-41D9-BBED-17790E072ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F80132C-0CB5-41DA-A425-16093FE6FF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F80132C-0CB5-41DA-A425-16093FE6FF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F80132C-0CB5-41DA-A425-16093FE6FF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F80132C-0CB5-41DA-A425-16093FE6FF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
